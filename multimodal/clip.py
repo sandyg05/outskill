@@ -1,6 +1,6 @@
 # Import necessary libraries
-import requests         # requests is used to make HTTP requests
-from PIL import Image   # PIL is used for image processing
+import requests  # requests is used to make HTTP requests
+from PIL import Image  # PIL is used for image processing
 
 # Import the CLIP model and processor from the transformers library
 from transformers import CLIPModel, CLIPProcessor

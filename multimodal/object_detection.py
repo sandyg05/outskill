@@ -1,11 +1,13 @@
 # Import necessary libraries for object detection
 import requests
-from PIL import Image, ImageDraw, ImageFont
 import torch
-from transformers import OwlViTProcessor, OwlViTForObjectDetection
+from PIL import Image, ImageDraw, ImageFont
+from transformers import OwlViTForObjectDetection, OwlViTProcessor
 
 # Load the OwlViT processor and model from Hugging Face
-processor = OwlViTProcessor.from_pretrained("google/owlvit-base-patch32", use_fast=False)
+processor = OwlViTProcessor.from_pretrained(
+    "google/owlvit-base-patch32", use_fast=False
+)
 model = OwlViTForObjectDetection.from_pretrained("google/owlvit-base-patch32")
 
 # Define the URL of the image to analyze
