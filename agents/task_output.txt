@@ -1,0 +1,504 @@
+PERSONALIZED Job Search Analysis Report
+Role: Senior Data Scientist
+Location: New York
+Date: 2025-07-21 21:37:55
+Resume Analyzed: Yes
+==================================================
+
+=== Crew Manager - Search for current job openings for the Senior Data Scientist role in New York 
+        using the Job Search tool. Find 5 relevant positions that would be suitable for the candidate's background.
+        Use this exact input: {"role": "Senior Data Scientist", "location": "New York", "num_results": 5} ===
+=== Crew Manager - Analyze the job openings and create a PERSONALIZED skills assessment:
+            
+            1. Compare the candidate's current skills (from resume) with job requirements
+            2. Identify SPECIFIC skill gaps and strengths
+            3. Categorize skills as: Already Have, Need to Improve, Need to Learn
+            4. Provide targeted recommendations including:
+               - Specific courses/certifications for identified gaps
+               - How to better highlight existing skills
+               - Timeline for skill development based on current level
+               - Which skills to prioritize for maximum impact
+            5. Create a personalized learning roadmap
+            
+            Use the candidate resume content for context: ✅ Resume parsed successfully!
+
+Resume Content:
+Contact Ishan Dutta
+Pune, Maharashtra
+ishandutta0098@gmail.com MLE II @Adobe | pip install mukh (5k+ Downloads) | Ex - NVIDIA |
+Kaggle Master
+www.linkedin.com/in/
+Bengaluru, Karnataka, India
+ishandutta0098 (LinkedIn)
+www.neuracort.com/ (Company)
+Summary
+Top Skills
+Hi, I am Ishan a Passionate Machine Learning Engineer who can
+Machine Learning
+play a guitar!
+Python (Programming Language)
+Public Speaking
+Presently I am a Machine Learning Engineer II at the Generative AI
+team in Adobe.
+Languages
+English (Full Professional)
+Formerly I was a Deep Learning Researcher at Rephrase AI where I
+Hindi (Full Professional)
+worked in Computer Vision.
+Bengali (Full Professional)
+I have recently stepped into making Open Source Contributions and
+Certifications
+am a member of the Lightning League by Lightning AI
+Data Analysis with Python - Digital
+Badge
+Previously I was a Machine Learning Engineer at Metadome AI
+Data Science Methodology - IBM
+where we built a metaverse to provide immersive experiences for the
+Machine Learning for Everyone
+virtual world.
+Python for Data Science and AI -
+IBM
+Programming for Everybody Deep Learning excites me and in a route to explore greater depths
+I worked as a Deep Learning Intern at NVIDIA where I implemented
+Honors-Awards Transformer architectures in PyTorch.
+Amala Goswami Endowment
+Prabhat Khabar Pratibha Samman Additionally I have been a part of a Project at Indian Institute of
+Hindustan Pratibha Samman Technology, Kanpur (IIT-K) as a Machine Learning Intern where I
+Model United Nations (MUN) - 2nd learnt and implemented Time Series Forecasting Models such as
+Runner Up
+ARIMA and FBProphet on Covid-19 dataset.
+Inter School Extempore
+Competition : 1st
+I have done various projects on Data Analytics, Machine Learning
+and Deep Learning.
+I have secured Global Top 30 Ranks in multiple Machine Learning
+Hackathons including a Kaggle Silver Medal. Presently I hold the
+rank of a 3-X Kaggle Expert and a Champion at MachineHack.
+Page 1 of 5
+Based on my Machine Learning Hackathon Performance I have
+been offered the position of a Machine Learning Dev Expert at
+Weights and Biases.
+Here I am responsible for engineering high quality Machine Learning
+Notebooks for exciting Kaggle Competitions.
+I graduated in 2022 from Bharati Vidyapeeth University in B.Tech
+Electronics Engineering.
+__
+TECHNICAL SKILLS:
+Languages: C, C++, Python
+Frameworks: PyTorch, PyTorch Lightning, FastAI, Tensorflow,
+Keras, Scikit-Learn, NLTK, DateTime, Pandas, Numpy, Matplotlib,
+Seaborn
+DataBase: SQL
+Tools: LaTeX
+Deployment: Streamlit
+__
+Further I am a Public Speaker and have been a speaker at a number
+of Podcasts and Events.
+I have been into Public Speaking for 6 Years and have won 30+
+State/National level Speaking Competitions.
+Experience
+Adobe
+1 year 9 months
+MLE II (Applied Science & Machine Learning)
+February 2025 - Present (6 months)
+Bangalore Urban, Karnataka, India
+Page 2 of 5
+MLE II (Digital Video & Audio)
+November 2023 - January 2025 (1 year 3 months)
+Bangalore Urban, Karnataka, India
+LanceDB
+Technical Writer
+February 2024 - March 2025 (1 year 2 months)
+San Francisco Bay Area
+JarvisLabs.ai
+Global Brand Ambassador
+November 2021 - March 2025 (3 years 5 months)
+Bangalore Urban, Karnataka, India
+Representing JarvisLabs AI Globally
+Lightning AI
+Lightning League Member
+February 2023 - August 2024 (1 year 7 months)
+San Francisco Bay Area
+Making Open Source Contributions across Lightning Repositories
+Weights & Biases
+Dev Expert
+August 2021 - March 2024 (2 years 8 months)
+San Francisco Bay Area
+Engineering high quality Machine Learning Notebooks for Kaggle and writing
+Technical Reports.
+Rephrase.ai
+Deep Learning Researcher
+January 2023 - November 2023 (11 months)
+Bengaluru, Karnataka, India
+(Acquired by Adobe)
+Working in Computer Vision and Audio Processing
+Metadome (formerly Adloid)
+Machine Learning Engineer
+February 2022 - January 2023 (1 year)
+Gurugram, Haryana, India
+Building a Metaverse!
+Page 3 of 5
+NVIDIA
+Deep Learning Intern
+May 2021 - August 2021 (4 months)
+Bangalore Urban, Karnataka, India
+• Developed state-of-the-art Multilingual Text Classifier using mBERT
+implemented with PyTorch Lightning and Hydra configuration attaining ROC-
+AUC Score of 0.91.
+• Accelerated model training by 40% using Multi-GPU Training with Mixed
+Precision and converted the deep learning models to ONNX and TensorRT
+format for inference.
+Indian Institute of Technology, Kanpur
+Machine Learning Intern
+May 2021 - August 2021 (4 months)
+Guide: Prof. Mahendra Verma
+• Performed extensive Data Visualization on Covid-19 cases and obtained
+state-wise patterns and insights.
+• Studied various Machine Learning Techniques and Explored Time Series
+Forecasting algorithm FBProphet and used it to forecast the active cases.
+Network Security Group BVDU Coe Pune
+Technical Member
+July 2018 - December 2018 (6 months)
+Pune, Maharashtra
+- I worked with the Technical Team of the Network Security Group and was an
+integral part of many competitions as well as workshops that were conducted
+during my tenure.
+- It gave me a good exposure of the new technical trends along with team
+work. Working with the team played an instrumental part in shaping my career
+goals.
+Education
+Bharati Vidyapeeth College Of Engineering, Pune
+B. Tech Electronics , Electronics Engineering · (2018 - 2022)
+Surendranath Centenary School
+Page 4 of 5
+· (2005 - 2018)
+Page 5 of 5
+ ===
+=== Crew Manager - Create a PERSONALIZED interview preparation strategy:
+            
+            1. Generate role-specific questions tailored to the candidate's background
+            2. Create STAR method examples using the candidate's actual experience
+            3. Identify potential interview challenges based on resume gaps or career changes
+            4. Provide specific talking points to highlight candidate's unique strengths
+            5. Address potential concerns employers might have
+            6. Create customized salary negotiation strategy based on experience level
+            7. Develop elevator pitch based on candidate's background
+            
+            Base recommendations on candidate resume: ✅ Resume parsed successfully!
+
+Resume Content:
+Contact Ishan Dutta
+Pune, Maharashtra
+ishandutta0098@gmail.com MLE II @Adobe | pip install mukh (5k+ Downloads) | Ex - NVIDIA |
+Kaggle Master
+www.linkedin.com/in/
+Bengaluru, Karnataka, India
+ishandutta0098 (LinkedIn)
+www.neuracort.com/ (Company)
+Summary
+Top Skills
+Hi, I am Ishan a Passionate Machine Learning Engineer who can
+Machine Learning
+play a guitar!
+Python (Programming Language)
+Public Speaking
+Presently I am a Machine Learning Engineer II at the Generative AI
+team in Adobe.
+Languages
+English (Full Professional)
+Formerly I was a Deep Learning Researcher at Rephrase AI where I
+Hindi (Full Professional)
+worked in Computer Vision.
+Bengali (Full Professional)
+I have recently stepped into making Open Source Contributions and
+Certifications
+am a member of the Lightning League by Lightning AI
+Data Analysis with Python - Digital
+Badge
+Previously I was a Machine Learning Engineer at Metadome AI
+Data Science Methodology - IBM
+where we built a metaverse to provide immersive experiences for the
+Machine Learning for Everyone
+virtual world.
+Python for Data Science and AI -
+IBM
+Programming for Everybody Deep Learning excites me and in a route to explore greater depths
+I worked as a Deep Learning Intern at NVIDIA where I implemented
+Honors-Awards Transformer architectures in PyTorch.
+Amala Goswami Endowment
+Prabhat Khabar Pratibha Samman Additionally I have been a part of a Project at Indian Institute of
+Hindustan Pratibha Samman Technology, Kanpur (IIT-K) as a Machine Learning Intern where I
+Model United Nations (MUN) - 2nd learnt and implemented Time Series Forecasting Models such as
+Runner Up
+ARIMA and FBProphet on Covid-19 dataset.
+Inter School Extempore
+Competition : 1st
+I have done various projects on Data Analytics, Machine Learning
+and Deep Learning.
+I have secured Global Top 30 Ranks in multiple Machine Learning
+Hackathons including a Kaggle Silver Medal. Presently I hold the
+rank of a 3-X Kaggle Expert and a Champion at MachineHack.
+Page 1 of 5
+Based on my Machine Learning Hackathon Performance I have
+been offered the position of a Machine Learning Dev Expert at
+Weights and Biases.
+Here I am responsible for engineering high quality Machine Learning
+Notebooks for exciting Kaggle Competitions.
+I graduated in 2022 from Bharati Vidyapeeth University in B.Tech
+Electronics Engineering.
+__
+TECHNICAL SKILLS:
+Languages: C, C++, Python
+Frameworks: PyTorch, PyTorch Lightning, FastAI, Tensorflow,
+Keras, Scikit-Learn, NLTK, DateTime, Pandas, Numpy, Matplotlib,
+Seaborn
+DataBase: SQL
+Tools: LaTeX
+Deployment: Streamlit
+__
+Further I am a Public Speaker and have been a speaker at a number
+of Podcasts and Events.
+I have been into Public Speaking for 6 Years and have won 30+
+State/National level Speaking Competitions.
+Experience
+Adobe
+1 year 9 months
+MLE II (Applied Science & Machine Learning)
+February 2025 - Present (6 months)
+Bangalore Urban, Karnataka, India
+Page 2 of 5
+MLE II (Digital Video & Audio)
+November 2023 - January 2025 (1 year 3 months)
+Bangalore Urban, Karnataka, India
+LanceDB
+Technical Writer
+February 2024 - March 2025 (1 year 2 months)
+San Francisco Bay Area
+JarvisLabs.ai
+Global Brand Ambassador
+November 2021 - March 2025 (3 years 5 months)
+Bangalore Urban, Karnataka, India
+Representing JarvisLabs AI Globally
+Lightning AI
+Lightning League Member
+February 2023 - August 2024 (1 year 7 months)
+San Francisco Bay Area
+Making Open Source Contributions across Lightning Repositories
+Weights & Biases
+Dev Expert
+August 2021 - March 2024 (2 years 8 months)
+San Francisco Bay Area
+Engineering high quality Machine Learning Notebooks for Kaggle and writing
+Technical Reports.
+Rephrase.ai
+Deep Learning Researcher
+January 2023 - November 2023 (11 months)
+Bengaluru, Karnataka, India
+(Acquired by Adobe)
+Working in Computer Vision and Audio Processing
+Metadome (formerly Adloid)
+Machine Learning Engineer
+February 2022 - January 2023 (1 year)
+Gurugram, Haryana, India
+Building a Metaverse!
+Page 3 of 5
+NVIDIA
+Deep Learning Intern
+May 2021 - August 2021 (4 months)
+Bangalore Urban, Karnataka, India
+• Developed state-of-the-art Multilingual Text Classifier using mBERT
+implemented with PyTorch Lightning and Hydra configuration attaining ROC-
+AUC Score of 0.91.
+• Accelerated model training by 40% using Multi-GPU Training with Mixed
+Precision and converted the deep learning models to ONNX and TensorRT
+format for inference.
+Indian Institute of Technology, Kanpur
+Machine Learning Intern
+May 2021 - August 2021 (4 months)
+Guide: Prof. Mahendra Verma
+• Performed extensive Data Visualization on Covid-19 cases and obtained
+state-wise patterns and insights.
+• Studied various Machine Learning Techniques and Explored Time Series
+Forecasting algorithm FBProphet and used it to forecast the active cases.
+Network Security Group BVDU Coe Pune
+Technical Member
+July 2018 - December 2018 (6 months)
+Pune, Maharashtra
+- I worked with the Technical Team of the Network Security Group and was an
+integral part of many competitions as well as workshops that were conducted
+during my tenure.
+- It gave me a good exposure of the new technical trends along with team
+work. Working with the team played an instrumental part in shaping my career
+goals.
+Education
+Bharati Vidyapeeth College Of Engineering, Pune
+B. Tech Electronics , Electronics Engineering · (2018 - 2022)
+Surendranath Centenary School
+Page 4 of 5
+· (2005 - 2018)
+Page 5 of 5
+ ===
+=== Crew Manager - Develop a PERSONALIZED career strategy plan:
+            
+            1. Analyze current resume and suggest specific improvements for target roles
+            2. Create LinkedIn optimization strategy based on existing profile content
+            3. Identify networking opportunities relevant to candidate's industry/background
+            4. Suggest specific portfolio projects based on current skills and target roles
+            5. Create personal branding strategy that highlights unique value proposition
+            6. Develop application strategy tailored to candidate's experience level
+            7. Provide specific action items with timeline for career advancement
+            
+            Base all recommendations on candidate background: ✅ Resume parsed successfully!
+
+Resume Content:
+Contact Ishan Dutta
+Pune, Maharashtra
+ishandutta0098@gmail.com MLE II @Adobe | pip install mukh (5k+ Downloads) | Ex - NVIDIA |
+Kaggle Master
+www.linkedin.com/in/
+Bengaluru, Karnataka, India
+ishandutta0098 (LinkedIn)
+www.neuracort.com/ (Company)
+Summary
+Top Skills
+Hi, I am Ishan a Passionate Machine Learning Engineer who can
+Machine Learning
+play a guitar!
+Python (Programming Language)
+Public Speaking
+Presently I am a Machine Learning Engineer II at the Generative AI
+team in Adobe.
+Languages
+English (Full Professional)
+Formerly I was a Deep Learning Researcher at Rephrase AI where I
+Hindi (Full Professional)
+worked in Computer Vision.
+Bengali (Full Professional)
+I have recently stepped into making Open Source Contributions and
+Certifications
+am a member of the Lightning League by Lightning AI
+Data Analysis with Python - Digital
+Badge
+Previously I was a Machine Learning Engineer at Metadome AI
+Data Science Methodology - IBM
+where we built a metaverse to provide immersive experiences for the
+Machine Learning for Everyone
+virtual world.
+Python for Data Science and AI -
+IBM
+Programming for Everybody Deep Learning excites me and in a route to explore greater depths
+I worked as a Deep Learning Intern at NVIDIA where I implemented
+Honors-Awards Transformer architectures in PyTorch.
+Amala Goswami Endowment
+Prabhat Khabar Pratibha Samman Additionally I have been a part of a Project at Indian Institute of
+Hindustan Pratibha Samman Technology, Kanpur (IIT-K) as a Machine Learning Intern where I
+Model United Nations (MUN) - 2nd learnt and implemented Time Series Forecasting Models such as
+Runner Up
+ARIMA and FBProphet on Covid-19 dataset.
+Inter School Extempore
+Competition : 1st
+I have done various projects on Data Analytics, Machine Learning
+and Deep Learning.
+I have secured Global Top 30 Ranks in multiple Machine Learning
+Hackathons including a Kaggle Silver Medal. Presently I hold the
+rank of a 3-X Kaggle Expert and a Champion at MachineHack.
+Page 1 of 5
+Based on my Machine Learning Hackathon Performance I have
+been offered the position of a Machine Learning Dev Expert at
+Weights and Biases.
+Here I am responsible for engineering high quality Machine Learning
+Notebooks for exciting Kaggle Competitions.
+I graduated in 2022 from Bharati Vidyapeeth University in B.Tech
+Electronics Engineering.
+__
+TECHNICAL SKILLS:
+Languages: C, C++, Python
+Frameworks: PyTorch, PyTorch Lightning, FastAI, Tensorflow,
+Keras, Scikit-Learn, NLTK, DateTime, Pandas, Numpy, Matplotlib,
+Seaborn
+DataBase: SQL
+Tools: LaTeX
+Deployment: Streamlit
+__
+Further I am a Public Speaker and have been a speaker at a number
+of Podcasts and Events.
+I have been into Public Speaking for 6 Years and have won 30+
+State/National level Speaking Competitions.
+Experience
+Adobe
+1 year 9 months
+MLE II (Applied Science & Machine Learning)
+February 2025 - Present (6 months)
+Bangalore Urban, Karnataka, India
+Page 2 of 5
+MLE II (Digital Video & Audio)
+November 2023 - January 2025 (1 year 3 months)
+Bangalore Urban, Karnataka, India
+LanceDB
+Technical Writer
+February 2024 - March 2025 (1 year 2 months)
+San Francisco Bay Area
+JarvisLabs.ai
+Global Brand Ambassador
+November 2021 - March 2025 (3 years 5 months)
+Bangalore Urban, Karnataka, India
+Representing JarvisLabs AI Globally
+Lightning AI
+Lightning League Member
+February 2023 - August 2024 (1 year 7 months)
+San Francisco Bay Area
+Making Open Source Contributions across Lightning Repositories
+Weights & Biases
+Dev Expert
+August 2021 - March 2024 (2 years 8 months)
+San Francisco Bay Area
+Engineering high quality Machine Learning Notebooks for Kaggle and writing
+Technical Reports.
+Rephrase.ai
+Deep Learning Researcher
+January 2023 - November 2023 (11 months)
+Bengaluru, Karnataka, India
+(Acquired by Adobe)
+Working in Computer Vision and Audio Processing
+Metadome (formerly Adloid)
+Machine Learning Engineer
+February 2022 - January 2023 (1 year)
+Gurugram, Haryana, India
+Building a Metaverse!
+Page 3 of 5
+NVIDIA
+Deep Learning Intern
+May 2021 - August 2021 (4 months)
+Bangalore Urban, Karnataka, India
+• Developed state-of-the-art Multilingual Text Classifier using mBERT
+implemented with PyTorch Lightning and Hydra configuration attaining ROC-
+AUC Score of 0.91.
+• Accelerated model training by 40% using Multi-GPU Training with Mixed
+Precision and converted the deep learning models to ONNX and TensorRT
+format for inference.
+Indian Institute of Technology, Kanpur
+Machine Learning Intern
+May 2021 - August 2021 (4 months)
+Guide: Prof. Mahendra Verma
+• Performed extensive Data Visualization on Covid-19 cases and obtained
+state-wise patterns and insights.
+• Studied various Machine Learning Techniques and Explored Time Series
+Forecasting algorithm FBProphet and used it to forecast the active cases.
+Network Security Group BVDU Coe Pune
+Technical Member
+July 2018 - December 2018 (6 months)
+Pune, Maharashtra
+- I worked with the Technical Team of the Network Security Group and was an
+integral part of many competitions as well as workshops that were conducted
+during my tenure.
+- It gave me a good exposure of the new technical trends along with team
+work. Working with the team played an instrumental part in shaping my career
+goals.
+Education
+Bharati Vidyapeeth College Of Engineering, Pune
+B. Tech Electronics , Electronics Engineering · (2018 - 2022)
+Surendranath Centenary School
+Page 4 of 5
+· (2005 - 2018)
+Page 5 of 5
+ ===
