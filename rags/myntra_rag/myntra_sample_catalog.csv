@@ -1,0 +1,9 @@
+product_id,product_name,category,brand,price,color,size,features,description,rating,in_stock
+PROD001,Men UV Protection Sports Shirt,Men Shirts,Nike,2499,Blue,"M, L, XL","UPF 50+ protection, Moisture-wicking, Anti-odor",High-performance UV protection shirt for outdoor sports and activities,4.5,True
+PROD002,Women UV Shield Running Top,Women Activewear,Adidas,1999,Pink,"S, M, L","UPF 40+ protection, Breathable mesh panels, Reflective details",Stylish and functional UV protection top for women runners,4.3,True
+PROD003,Men Quick Dry UV Shirt,Men Shirts,Puma,1799,Black,"M, L, XL, XXL","UPF 50+ protection, Quick-dry fabric, Lightweight",Versatile UV protection shirt suitable for various outdoor activities,4.2,False
+PROD004,Unisex UV Protection Hoodie,Unisex Outerwear,Under Armour,3299,Gray,"S, M, L, XL","UPF 45+ protection, Thumbholes, Zippered pocket",Premium UV protection hoodie for all-weather outdoor adventures,4.7,True
+PROD005,Men Athletic UV Guard Tee,Men T-Shirts,Reebok,1599,White,"M, L, XL","UPF 30+ protection, Stretchable fabric, Sweat-wicking",Basic UV protection t-shirt for everyday athletic activities,4.0,True
+PROD006,Women UV Blocking Swim Shirt,Women Swimwear,Speedo,2799,Navy,"XS, S, M, L","UPF 50+ protection, Chlorine-resistant, Fast-drying",Professional-grade UV protection swim shirt for water sports,4.6,False
+PROD007,Kids UV Protection Rashguard,Kids Activewear,Decathlon,999,Red,"8-10, 10-12, 12-14","UPF 50+ protection, Flatlock seams, 4-way stretch",Comfortable UV protection rashguard designed specifically for kids,4.4,True
+PROD008,Men UPF 50+ Fishing Shirt,Men Outdoor,Columbia,3999,Khaki,"M, L, XL, XXL","UPF 50+ protection, Vented back, Multiple pockets",Technical fishing shirt with maximum UV protection and utility features,4.8,True
